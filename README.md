@@ -35,4 +35,4 @@ The challange is to build out the QR code component and get it to look as close 
 
 ## Links
 
-- Live Site URL: (https://md-talim.github.io/qr-code-component)
+- Live Site URL: (https://md-talim.github.io/QR-code-component)
